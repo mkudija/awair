@@ -7,8 +7,6 @@
 
 
 Awair Score and Index
-<p style="text-align:center;"><img src="https://links.awair.is/images/assets/awair-score-and-index.jpg" width="75%" height="75%"></p>
-
 
 <table>
 <thead>
@@ -24,3 +22,6 @@ Awair Score and Index
 <tr><td style="text-align:left">pm10</td><td style="text-align:center">Particulate Mass (PM10 - Coarse Dust)</td><td style="text-align:center">μg/m³</td><td style="text-align:center">micrograms per meter cubed</td><td style="text-align:right">0 ~ 1,000</td></tr>
 </tbody>
 </table>
+
+
+<p style="text-align:center;"><img src="https://links.awair.is/images/assets/awair-score-and-index.jpg" width="75%" height="75%"></p>
